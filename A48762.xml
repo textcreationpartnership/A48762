@@ -1,0 +1,649 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Albion's elegie: or, A poem, upon the high and mighty Prince James Duke of Albany and York his departure from Scotland. Presented to His Royal Highness, by M.L.</title>
+            <author>M. L. (Michael Livingston), 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48762</idno>
+            <idno type="STC">Wing L2601</idno>
+            <idno type="STC">ESTC R216778</idno>
+            <idno type="EEBO-CITATION">99828499</idno>
+            <idno type="PROQUEST">99828499</idno>
+            <idno type="VID">32927</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48762)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32927)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1914:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Albion's elegie: or, A poem, upon the high and mighty Prince James Duke of Albany and York his departure from Scotland. Presented to His Royal Highness, by M.L.</title>
+                  <author>M. L. (Michael Livingston), 17th cent.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by the heir of Andrew Anderson, printer to His most sacred Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Michael Livingston cf. Wing.</note>
+                  <note>Includes: "Albion's farewell" with separate dated title page (1680), continuous pagination and register.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English poetry --  Early modern, 1500-1700.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:32927:1" rendition="simple:additions"/>
+                  <p>ALBION'S Elegie: OR, A POEM, Upon the High and Mighty Prince JAMES Duke of <hi>ALBANY</hi> and <hi>YORK,</hi> His Departure from SCOTLAND.</p>
+                  <p>Preſented to His Royal HIGHNESS, By <hi>M. L.</hi>
+                  </p>
+                  <l>
+                     <hi>ALBAN<g ref="char:V">Ʋ</g>M toto reſonabunt littore ripae,</hi>
+                  </l>
+                  <l>
+                     <hi>Et triſtes</hi> Elegos, <hi>te decedente, canemus.</hi>
+                  </l>
+                  <p>
+                     <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred MAJESTY. 1680.</p>
+               </div>
+            </front>
+            <body>
+               <div type="elegy">
+                  <pb facs="tcp:32927:2"/>
+                  <pb n="3" facs="tcp:32927:2"/>
+                  <head>TO His Royal Highneſs, JAMES, Duke of <hi>ALBANY</hi> and <hi>YORK.</hi>
+                  </head>
+                  <head>ALBION'S Elegie:</head>
+                  <lg>
+                     <l>WHat to Depart, the <hi>D<g ref="char:V">Ʋ</g>KE?</hi> ſuch News ye bring,</l>
+                     <l>As uſe t'aſſume the preying Eagle's wing:</l>
+                     <l>It's like the uncouth Accent ye miſtook,</l>
+                     <l>Or Read the Thing in a Demurring look;</l>
+                     <l>Elſe penſive Thoughts poſſeſs my ſleepy Head</l>
+                     <l>With th'Object, which awake to loſe, I dread:</l>
+                     <l>But ſure, no Dream my Fancy thus deludes,</l>
+                     <l>Upon my Watch ſuch Jealouſie intrudes,</l>
+                     <l>Theſe Flames diſperſ'd offend my tender Eyes,</l>
+                     <l>My Ears do itch with ſuch noiſ'd <hi>Homilies;</hi>
+                     </l>
+                     <l>So that incenſ'd <hi>Eolian</hi> Thunder-clap,</l>
+                     <l>Had ſure prognoſticate this Diſmal Rap:</l>
+                     <l>So <hi>Syren</hi>-pleaſures Fatal events Form,</l>
+                     <l>And <hi>Halcyon</hi> Calmneſs hatch a future Storm.</l>
+                  </lg>
+                  <lg>
+                     <l>But whither this gay Navie Lee-ward Glides?</l>
+                     <l>Like Stately <hi>Genets</hi> Prauncing on the Tides,</l>
+                     <l>Doth kind Enamour'd <hi>Paris</hi> hither Sail</l>
+                     <l>To ſteal our Sparkling <hi>Helen,</hi> and prevail?</l>
+                     <pb n="4" facs="tcp:32927:3"/>
+                     <l>Theſe Beautie's darts may, with the <hi>Grecian</hi> State,</l>
+                     <l>Enflame us to Reſcue, but with worſe Fate.</l>
+                     <l>Or, here dare theſe light ſportful Yachts arrive,</l>
+                     <l>And of our Iſle's <hi>Palladium</hi> us deprive<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:punc">▪</g>
+                     </l>
+                     <l>Let's ſhun <hi>
+                           <g ref="char:V">Ʋ</g>lyſſes</hi> Guile, the Fate of <hi>Troy,</hi>
+                     </l>
+                     <l>To ſteal our GODS, and then our Iſle deſtroy:</l>
+                     <l>The breach, if great <hi>Apollo</hi> once depart,</l>
+                     <l>May ſcarce prevent Politick <hi>Sinon</hi>'s Art,</l>
+                     <l>For tho' repair'd, and fenc'd gainſt Forreign Ginn,</l>
+                     <l>The <hi>Grecian</hi> Horſe may lurk ſecure within.</l>
+                     <l>Will this Abortive <hi>Exit</hi> leave a doom?</l>
+                     <l>As <hi>Caeſar</hi>'s ſad recluſe had done to <hi>Rome,</hi>
+                     </l>
+                     <l>The ſmooth-tongu'd Hoſtage to the Oil of <hi>Greece;</hi>
+                     </l>
+                     <l>Shall we let <hi>Jaſon</hi> ſteal our Golden Fleece,</l>
+                     <l>With fond <hi>Medea?</hi> rather let's implore</l>
+                     <l>
+                        <hi>Neptune,</hi> to ward the <hi>Argonauts</hi> from ſhore:</l>
+                     <l>Or if arriv'd, the <hi>Lion</hi> rampant Arm,</l>
+                     <l>Leſt they the watchful Dragon learn to charm.</l>
+                  </lg>
+                  <lg>
+                     <l>But why, Great <hi>Sir,</hi> Deſert you us ſo ſoon?</l>
+                     <l>Abridge our Year, and leave your Task undone?</l>
+                     <l>Doth not the <hi>Sun</hi> through the whole <hi>Zodiack</hi> reign?</l>
+                     <l>Before he Mount on <hi>Aries</hi> Horns again;</l>
+                     <l>Whereas you in the <hi>Archer</hi> but begun,</l>
+                     <l>And ſcarce through Winter's Scaly Signe have run;</l>
+                     <l>But alſo <hi>Flora</hi>'s fragrant prime leapt o're,</l>
+                     <l>With <hi>Ceres</hi> verdant Robes, and <hi>Liber</hi>'s ſtore,</l>
+                     <l>While our obſcure <hi>Horizon</hi> you decline,</l>
+                     <l>And in the Noon-tide intermits to ſhine:</l>
+                     <l>O! to <hi>Cimmerian</hi> darkneſs not expoſe</l>
+                     <l>Us, like thoſe whom the Frigid <hi>Zone</hi> encloſe,</l>
+                     <l>Or in the ſame Eſtate with thoſe enroll,</l>
+                     <l>Whoſe direct <hi>Zenith</hi> is the <hi>Artick</hi> Pole:</l>
+                     <l>Nay worſe, while they enjoy <hi>Phoebus</hi> pow'r,</l>
+                     <l>His beams ſix Months diſplay'd, and we but four.</l>
+                     <pb n="5" facs="tcp:32927:3"/>
+                     <l>O let not <hi>Thetis</hi> Bow'rs our <hi>Titan</hi> ſhade,</l>
+                     <l>His flammed Chariot with her Mantle ſpread,</l>
+                     <l>Until another <hi>Phoebus</hi> ſway the Rains,</l>
+                     <l>Which our Lent <hi>Titan</hi> ſoon by courſe reſigns:</l>
+                     <l>So <hi>Pylades</hi> is call'd <hi>Orestes</hi> Brother,</l>
+                     <l>Prompt to Die for, and Repreſent each Other;</l>
+                     <l>So it's betwixt fair <hi>Leda</hi>'s Twins agreed,</l>
+                     <l>When one deſcends, the other to ſucceed;</l>
+                     <l>So the great Luminaries ſtraight appear,</l>
+                     <l>Or hold Empire in either <hi>Hemiſphere.</hi>
+                     </l>
+                     <l>Stand then, Our <hi>Sun,</hi> or let the poſting Ships</l>
+                     <l>Embark another, elſe a long Eclipſe</l>
+                     <l>We ſuffer, and without a miſty Trope,</l>
+                     <l>Grim <hi>Saturn</hi> ſeems to caſt our <hi>Horoſcope.</hi>
+                     </l>
+                     <l>Her Golden Leaves the <hi>Marigold</hi> at Night</l>
+                     <l>Wraps up, and griev's her <hi>Sun</hi>'s deprived ſight,</l>
+                     <l>But to his early Rayes ſhe doth diſplay</l>
+                     <l>Her cheerful Banners; yet both night and day</l>
+                     <l>Our Hearts muſt Frieze, our Eyes be Shut, and Swell</l>
+                     <l>With Tears, untill your Glad ariſe diſpell</l>
+                     <l>Our Sight's black Cloud, grief's Dew drink up, and drive</l>
+                     <l>Love's froſt away, each Senſe decay'd revive.</l>
+                     <l>The <hi>Sun</hi> emits moſt Force, when moſt remote,</l>
+                     <l>When he aloft the <hi>Crab</hi>'s Aſpect hath got;</l>
+                     <l>Then if our <hi>Sun</hi> Aſcend, let's but Intreate</l>
+                     <l>For the Reflexions of his abſent Heat.</l>
+                  </lg>
+                  <lg>
+                     <l>Hath ALBANY ſet Sail ſtill to remain</l>
+                     <l>Abroad, or ſhortly to come Home again?</l>
+                     <l>Yes, to Return, like thoſe, who to deſire</l>
+                     <l>The City more, to Rural Farmes retire,</l>
+                     <l>Could he forſake that Kindly Plot of Ground?</l>
+                     <l>Which his <hi>Anceſtor's</hi> Fame, and Temples Crown'd,</l>
+                     <l>Through whole five hundred, three <hi>Olympiad's</hi> hinge,</l>
+                     <l>A <hi>Century,</hi> and <hi>Decad</hi> ſtrong of Kings;</l>
+                     <pb n="6" facs="tcp:32927:4"/>
+                     <l>And which as many <hi>Monarchs</hi> counts, as are</l>
+                     <l>Dayes, when four Moons have couch'd their watry Care,</l>
+                     <l>Or Years, in full five <hi>Golden Numbers</hi> fixt,</l>
+                     <l>Lacking but Five <hi>Kings</hi> to compleat the Sixt.</l>
+                     <l>But your Abode ſome <hi>Myſtery</hi> Imports,</l>
+                     <l>I cannot Circumſcribe it Long nor Short:</l>
+                     <l>If with the number of your Vertuous Acts,</l>
+                     <l>Through all thy ſweet Deportment's Lively tracts,</l>
+                     <l>We Scan your Preſence, and your Stay Compute,</l>
+                     <l>It might with Aged Tim's large <hi>Annals</hi> ſute:</l>
+                     <l>But if your Stay We ballance with the Joy,</l>
+                     <l>And Balmy pleaſures which our Senſes Cloy,</l>
+                     <l>Ah too abrupt! nay it as brief appears,</l>
+                     <l>As theſe Delights which ſo tranſport the Ears,</l>
+                     <l>Or of a well-tun'd Lyre the warbling Note,</l>
+                     <l>Which hath an <hi>Obit</hi> with its Audience got.</l>
+                  </lg>
+                  <lg>
+                     <l>As if, when firſt an hopeful Youth the ſtage</l>
+                     <l>Had entred, and ſhown Wit more ripe than Age,</l>
+                     <l>The Courtain fell, the <hi>Scene</hi> became his Urne,</l>
+                     <l>The plotting <hi>Prologue</hi> to th'<hi>Epilogue</hi> turn;</l>
+                     <l>Sure it would move th' amaz'd Spectatours more,</l>
+                     <l>Then his aſpiring Sp'rit made glad before:</l>
+                     <l>Ev'n ſo, <hi>Moſt Royal Sir,</hi> you firſt let's taſte</l>
+                     <l>Your Lips delicious Fruit, unlocks the Breaſt</l>
+                     <l>Where we Contemplate <hi>BRITAIN'S</hi> Paradiſe,</l>
+                     <l>
+                        <hi>Elyſium</hi>'s rare Abſtract; then in a trice</l>
+                     <l>Excluded from this <hi>Eden,</hi> all Afloat</l>
+                     <l>We're left, reflecting on the curious plot:</l>
+                     <l>What have we done? Omitted to effect?</l>
+                     <l>Did any Rules our Taſting e're direct?</l>
+                     <l>Or Caveats ſtarve? No, here the Serpent lurks,</l>
+                     <l>We could not Feed, unleſs wee'd ſwell'd like <hi>Turks.</hi>
+                     </l>
+                     <l>Our charmed Eyes, O had you never cloy'd,</l>
+                     <l>Our Palate tickled, or we ſtill enjoy'd</l>
+                     <pb n="7" facs="tcp:32927:4"/>
+                     <l>That pleaſant proſpect, this <hi>Soul-raping</hi> Gueſt,</l>
+                     <l>That Royal fare, we had been always Bleſt.</l>
+                     <l>But ſince you Vaile anonthat ſplendid Face,</l>
+                     <l>The <hi>Diapaſon</hi> of <hi>Majeſtick</hi> Grace,</l>
+                     <l>Whoſe <hi>Symmetry</hi> had once the <hi>Cynick</hi> ſeen,</l>
+                     <l>It <hi>Tub</hi> and <hi>Sun,</hi> and <hi>Aliment</hi> had been;</l>
+                     <l>You ev'n retract our Joy begun, and ſo</l>
+                     <l>Your <hi>Advent</hi> frames the <hi>Epoch</hi> of our <hi>woe;</hi>
+                     </l>
+                     <l>Here I could in the Adamant infuſe</l>
+                     <l>A Melancholick Fit, the Flow'r <hi>de Luce</hi>
+                     </l>
+                     <l>Force in a ſtone to weep, in this Compriſe</l>
+                     <l>All former woe, make <hi>Nature</hi> ſympathiſe</l>
+                     <l>With her condoling Quire, but that my Grief</l>
+                     <l>Exceeds all theſe as far, as they belief.</l>
+                  </lg>
+                  <lg>
+                     <l>Is <hi>Caledon</hi>'s <hi>Sun</hi> fled? Life of the <hi>nine,</hi>
+                     </l>
+                     <l>Of Honour, Pleaſure, Fame, and Vertu's Shrine;</l>
+                     <l>Fly hence Refreſhing Paſtime, and all Sport,</l>
+                     <l>Here let no active Exerciſe Reſort:</l>
+                     <l>The Fields as <hi>Paralytick</hi> nod about,</l>
+                     <l>Clubs take the Cramp, and Gameſome-Balls the Gout;</l>
+                     <l>No more their Lungs the courſing Horſes waſte,</l>
+                     <l>But, by the ſloweſt pace, ſtrive to be laſt;</l>
+                     <l>Let Foot-men to their flight add Breath, and feel</l>
+                     <l>A change, to loſe the prize, tho'gain the heels,</l>
+                     <l>The trained Hounds all Diſcipline diſdain,</l>
+                     <l>And at the Queſt, or Hollow bark again;</l>
+                     <l>No ſearch the Hare diſcloſe, no fear her wake,</l>
+                     <l>While ſhe the Plains, and they the Mountains take:</l>
+                     <l>And let no Gun with th'eager Sports-man frame,</l>
+                     <l>But wreſt the <hi>Artiſt's</hi> Skil, and Maſter's Aim;</l>
+                     <l>Let no Incloſure, Grove, or Walking-plain</l>
+                     <l>Invite to Recreate, or <hi>Love</hi> entertain;</l>
+                     <l>Let no <hi>Heroick</hi> Vertue here Reſide,</l>
+                     <l>Nor pompous Honour in proud Triumph ride,</l>
+                     <pb n="8" facs="tcp:32927:5"/>
+                     <l>No gen'rous <hi>Soul,</hi> here no good <hi>Genius</hi> haunt,</l>
+                     <l>The Valiant <hi>SCOTS</hi> of their <hi>Achilles</hi> Vaunt,</l>
+                     <l>Nor <hi>Mars</hi> Diſciples ſpeak, but Silence deep</l>
+                     <l>Like Punies of the <hi>Samian</hi> Wiſe-man keep;</l>
+                     <l>Affected Smiles no more <hi>Comedians</hi> Ape,</l>
+                     <l>Or wanton Looks inveſt; be forc'd to ſhape</l>
+                     <l>Their Mimick geſture, not to Paſſions ſhown</l>
+                     <l>In other Minds, but ſquared to their own,</l>
+                     <l>Let <hi>Tragick</hi> ends, and Interludes beguile</l>
+                     <l>The <hi>Comick-muſe,</hi> in a <hi>Drammatick</hi>-ſtile;</l>
+                     <l>No Beauteous <hi>Madam</hi> more, or Courtly <hi>Wench</hi>
+                     </l>
+                     <l>Let moderate a Jig, or <hi>Galliard-French,</hi>
+                     </l>
+                     <l>But <hi>Chorus</hi>-like, to Vary with the Time</l>
+                     <l>And tune her feet proportion'd to a Chime:</l>
+                     <l>Let neither <hi>Court</hi> nor <hi>Courtier</hi> ſtay behind,</l>
+                     <l>Since ſwelling Waters, with the juſtling Wind</l>
+                     <l>Contending for Supremacy, through pride,</l>
+                     <l>Give the Advantage both of Wind and Tide;</l>
+                     <l>Let both unite to heave them to the Port</l>
+                     <l>Now moſt deſir'd, where they Saint <hi>James</hi> his Court</l>
+                     <l>Preparing with all Vines, and various Cates,</l>
+                     <l>All ſolemn Pomp, and Ornament of States,</l>
+                     <l>With Purple, Porphery, and <hi>Turkie</hi>-work,</l>
+                     <l>May welcome, and receive, the Duke of <hi>York,</hi>
+                     </l>
+                     <l>Whoſe mild Aſpect, and Influence on <hi>CHARLES,</hi>
+                     </l>
+                     <l>May Introduce the <hi>Barons, Lords,</hi> and <hi>Earls</hi>
+                     </l>
+                     <l>Of th'Ancient Kingdom, joint to repreſent</l>
+                     <l>Their equal-preſſing Grievance, and Diſſent</l>
+                     <l>Of ALBANIE's dire <hi>Exodus;</hi> their Eye,</l>
+                     <l>VVhoſe ſad Privation nothing can ſupplie,</l>
+                     <l>But <hi>Talion</hi> Juſtice; or to reinſtall</l>
+                     <l>The <hi>Head-stone,</hi> ſnatch'd away from ALBION's wall.</l>
+                     <l>
+                        <hi>Jove</hi>'s Sacred Brood no more a drop diſtill</l>
+                     <l>Of fluent <hi>Nectar,</hi> in a <hi>Poet's</hi> Quill,</l>
+                     <pb n="9" facs="tcp:32927:5"/>
+                     <l>Through the <hi>Castalian</hi> Chryſtal Limbeck Strain'd,</l>
+                     <l>From <hi>Helicon</hi>'s adjacent Fountain drain'd,</l>
+                     <l>Whereby in <hi>Lyrick,</hi> or in <hi>Epick</hi> Verſe,</l>
+                     <l>He may a <hi>Hero</hi>'s Praiſe, or Acts rehearſe,</l>
+                     <l>But <hi>Elegies</hi> compile, ſince <hi>Sir,</hi> to you,</l>
+                     <l>
+                        <hi>Poets</hi> all kinds of <hi>Panegyricks</hi> Ow,</l>
+                     <l>And when done all that Art, or thought can Vent,</l>
+                     <l>But patcheth Chinks of the old Argument.</l>
+                  </lg>
+                  <lg>
+                     <l>Lo what Diſtreſs I graſp with in extream</l>
+                     <l>Loſt both my ſole <hi>Moecenas,</hi> and ſole Theam,</l>
+                     <l>Nay to enlarge my Grief, compleat my loſs,</l>
+                     <l>I cannot by Retail Trade, nor in Groſs:</l>
+                     <l>I henceforth bid to thee, fond <hi>Muſe,</hi> adieu,</l>
+                     <l>To all the Whinning and the Bankrout Crue;</l>
+                     <l>No more thy rambling <hi>Phantaſies</hi> ſuggeſt,</l>
+                     <l>As paſſ'd a feign'd <hi>Enthuſiaſtick</hi> teſt:</l>
+                     <l>I'le no more chew the cud, and beat my brains,</l>
+                     <l>In hot perſuits not empty all my Veins,</l>
+                     <l>For lo the trump that hug'd thee from the Womb,</l>
+                     <l>The ſame repon'd, ſhal drag thee to thy Tomb.</l>
+                     <l>Thou mad'ſt me twice the Feet of ROYAL <hi>JAMES</hi>
+                     </l>
+                     <l>Salute, as Rivers uſher'd in by <hi>Thames</hi>
+                     </l>
+                     <l>To <hi>London</hi>'s Streets, and Wellcome did'ſt afford,</l>
+                     <l>Without exchange of a ſuperfluous word:</l>
+                     <l>And wilt thou Train me in, Commence my fee?</l>
+                     <l>To conſummate my <hi>Climacterick three,</hi>
+                     </l>
+                     <l>Which ſure proves Diſmal, ſince I'm forc'd to ſpell,</l>
+                     <l>And openly pronounce to Both, <hi>Farewell;</hi>
+                     </l>
+                     <l>Then Farewell <hi>Muſe</hi> the Patrone of my Crime,</l>
+                     <l>Thrice to accoſt a <hi>Prince</hi> with ſcantling Rhime,</l>
+                     <l>Twice to preſent <hi>Tongue</hi>'s Noble <hi>Architect,</hi>
+                     </l>
+                     <l>The Gleanings of his own rich <hi>Dialect.</hi>
+                     </l>
+                     <l>Thou might'ſt have rather ſtiffled doting <hi>Love,</hi>
+                     </l>
+                     <l>Then the entruſted Talent not Improve.</l>
+                     <pb n="10" facs="tcp:32927:6" rendition="simple:additions"/>
+                     <l>But Faith I'm loath that Bratt to diſinherit,</l>
+                     <l>Which Homage payea by <hi>Zeal,</hi> and not by <hi>Merit,</hi>
+                     </l>
+                     <l>And prompt his <hi>Clemency</hi> to interpoſe</l>
+                     <l>'Twixt <hi>Poet's</hi> Wrath, and her inſipid Doſe:</l>
+                     <l>Come truck along, and rather chuſe one Doom,</l>
+                     <l>To Hope abroad, than ſtill Deſpair at home;</l>
+                     <l>Come let's attend the <hi>Ocean</hi>'s Crowned Glore,</l>
+                     <l>And waſt him ſafe unto the <hi>Engliſh</hi> Shore.</l>
+                  </lg>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:32927:6" rendition="simple:additions"/>
+                  <p>ALBION'S Farewel: OR, POEM, Preſented to his Royal Highneſs returning to COURT.</p>
+                  <p>By the ſame Hand.</p>
+                  <q>
+                     <p>ALBAN<g ref="char:V">Ʋ</g>M en oculis abeuntem proſequor udis, Et dixit tenui murmure Lingua, <hi>VALE.</hi>
+                     </p>
+                     <bibl>
+                        <hi>Ovid.</hi>
+                     </bibl>
+                  </q>
+                  <p>
+                     <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred MAJESTY. 1680.</p>
+               </div>
+            </front>
+            <body>
+               <div type="poem">
+                  <pb facs="tcp:32927:7" rendition="simple:additions"/>
+                  <pb n="13" facs="tcp:32927:7"/>
+                  <head>TO His Royall Highneſs.</head>
+                  <head>ALBION'S Farevvell.</head>
+                  <lg>
+                     <head>1.</head>
+                     <l>SInce Fates our pleaſures thus disjoyne,</l>
+                     <l>Out of one Maſs two Bodies coine,</l>
+                     <l>yet with one breath inſpir'd,</l>
+                     <l>We will the rigid Section find,</l>
+                     <l>Or can one half ſurvive behind,</l>
+                     <l>when th'other hath retir'd;</l>
+                     <l>But we muſt now our half reſign,</l>
+                     <l>So Honour bids, and we incline;</l>
+                     <l>The ſhrubs yeeld to the lofty pine.</l>
+                  </lg>
+                  <lg>
+                     <head>2.</head>
+                     <l>Should we your Sympathy augment</l>
+                     <l>By grudge? and be as impudent</l>
+                     <l>as him who chides his Friend,</l>
+                     <l>By ſome Emergent call'd away,</l>
+                     <l>And forced to abridge his Stay,</l>
+                     <l>as if Gueſts were conſin'd;</l>
+                     <l>So <hi>Honour</hi> calls you to ſet Sail,</l>
+                     <l>Your Tide, our Good, le'ts not bewail!</l>
+                     <l>But heartily impart all hail.</l>
+                  </lg>
+                  <lg>
+                     <head>3.</head>
+                     <l>Then <hi>Farewell MONARCH</hi> of one Heart,</l>
+                     <l>Whereof all <hi>SCOTLAND</hi> claims a part,</l>
+                     <l>except ſome clowniſh Boo'rs,</l>
+                     <pb n="14" facs="tcp:32927:8"/>
+                     <l>Whoſe ſavage Breasts no Law can tame,</l>
+                     <l>Or <hi>Stars</hi> have influence to inflame,</l>
+                     <l>who feell no <hi>Higher Pow'rs,</hi>
+                     </l>
+                     <l>Farewell our Hope's betrothed <hi>Dove,</hi>
+                     </l>
+                     <l>Darling of Thoughts, Load-ſtone of <hi>Love,</hi>
+                     </l>
+                     <l>Like <hi>Ariſtotle</hi>'s Quadrate prove.</l>
+                  </lg>
+                  <lg>
+                     <head>4.</head>
+                     <l>To th'midle Region of the Air,</l>
+                     <l>May all the blustring Winds repair,</l>
+                     <l>But as much gentle Gale,</l>
+                     <l>Let <hi>Eolus</hi> ſend from his Cave,</l>
+                     <l>As him to port in Waine may heave,</l>
+                     <l>Or chariot under ſail.</l>
+                     <l>To tread the Sea when you're deſcri'd,</l>
+                     <l>The gods their Fiſh-tail'd Steeds beſtride,</l>
+                     <l>And ſummon all their Hoſt to ride:</l>
+                  </lg>
+                  <lg>
+                     <head>5.</head>
+                     <l>In Honour gladly to attend,</l>
+                     <l>From Fear releaſe, from Harm defend</l>
+                     <l>your welcome <hi>Laureat-Train.</hi>
+                     </l>
+                     <l>Let <hi>Neptune</hi> all Sea-paſſions curb,</l>
+                     <l>Which may obſtruct, or dare diſturb</l>
+                     <l>The <hi>Caeſar</hi> of the main;</l>
+                     <l>Or which may move in any ſort</l>
+                     <l>The ſecond Column of the <hi>Court,</hi>
+                     </l>
+                     <l>And render it to need ſupport.</l>
+                  </lg>
+                  <lg>
+                     <head>6.</head>
+                     <l>O! let's not this Occaſion ſlip,</l>
+                     <l>Of reering up our ſelves the Ship,</l>
+                     <l>wherein, <hi>Great Sir,</hi> ſecure</l>
+                     <l>You may all Storms out-ride, and cast</l>
+                     <l>Safe <hi>Anchor</hi> on our Breasts; the Maſt</l>
+                     <l>ſhall <hi>Valour's</hi> proof endure,</l>
+                     <pb n="15" facs="tcp:32927:8"/>
+                     <l>
+                        <hi>Experience</hi> ſhall the Rudder steer,</l>
+                     <l>Sound <hi>Reſolution</hi> Top-ſail bear,</l>
+                     <l>Our <hi>Loyalty</hi> the Flag appear;</l>
+                  </lg>
+                  <lg>
+                     <head>7.</head>
+                     <l>The full-ſpread Sails, enlarged <hi>Hope,</hi>
+                     </l>
+                     <l>Our hearty <hi>Wiſhes</hi> Teloſcope,</l>
+                     <l>The Badge our <hi>Lyon</hi> ſhew;</l>
+                     <l>The Soul's <hi>Cinque-port</hi> ſhall Compaſs be,</l>
+                     <l>And to the Needle <hi>(Love)</hi> agree,</l>
+                     <l>As always fixt on you.</l>
+                     <l>Farewell Elected <hi>Admiral</hi>
+                     </l>
+                     <l>Of CALEDON's high <hi>Brazen wall,</hi>
+                     </l>
+                     <l>Which will all Hoſtile force appall:</l>
+                  </lg>
+                  <lg>
+                     <head>8.</head>
+                     <l>Nor <hi>Competition</hi> dare invest</l>
+                     <l>Her outward dreſs, and tho' poſſeſſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </l>
+                     <l>with hidden flames, yet muſt</l>
+                     <l>In her own aſhes ſtraight conſume,</l>
+                     <l>Or otherwiſe produce but fume</l>
+                     <l>the Honour to adjust.</l>
+                     <l>Farewell the most advent'rou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Prore,</l>
+                     <l>That e're cut Sea, or <hi>Jaſon</hi> bore,</l>
+                     <l>
+                        <hi>Your</hi> fraught without exchange reſtore.</l>
+                  </lg>
+                  <lg>
+                     <head>9.</head>
+                     <l>
+                        <g ref="char:V">Ʋ</g>nleſs ſupream great <hi>Caeſar</hi> pleaſe,</l>
+                     <l>To prove thy Conduct in the Seas,</l>
+                     <l>to whoſe Empire moſt pure</l>
+                     <l>Strick ſail, and all Obedience ſhew,</l>
+                     <l>Crave humbly home to ſteer, and view</l>
+                     <l>his Primogeniture.</l>
+                     <l>Farewell the moſt renowned Pair,</l>
+                     <l>That e're tread Land, or Main did ſquare,</l>
+                     <l>This yeelds to <hi>You,</hi> that vails to <hi>Her.</hi>
+                     </l>
+                  </lg>
+                  <pb n="16" facs="tcp:32927:9"/>
+                  <lg>
+                     <head>10.</head>
+                     <l>Lo how the Fiſhes <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </l>
+                     <l>As if they did more pleaſure <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </l>
+                     <l>from <hi>her</hi> 
+                        <gap reason="illegible" resp="#UOM" extent="6 letters">
+                           <desc>••••••</desc>
+                        </gap>ing eye,</l>
+                     <l>Then Rocks from <hi>Amphion</hi>'s w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rlding <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </l>
+                     <l>Or that Fiſh which his back did <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </l>
+                     <l>for <hi>Arion</hi>'s melodie.</l>
+                     <l>Farewell bright Lamps, and all your Train,</l>
+                     <l>Your Luster always to retain,</l>
+                     <l>Long both in <hi>Love,</hi> and Honour raign.</l>
+                  </lg>
+                  <lg>
+                     <head>11.</head>
+                     <l>Let SCOTLAND penetrate the Skies</l>
+                     <l>By ſuffrage, and Heart-ſacrifice,</l>
+                     <l>
+                        <hi>Jove's</hi> Herauld to employ;</l>
+                     <l>That he their voyage a ſweet ſleep</l>
+                     <l>Make ſeem, time with the <hi>Sea-gods</hi> keep</l>
+                     <l>t'afford a ſafe Convoy.</l>
+                     <l>Let <hi>England Neptune's</hi> 
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> pay</l>
+                     <l>Their <hi>other Hope</hi> de<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>d with the Bay</l>
+                     <l>Receive, and ſolemnize the day</l>
+                  </lg>
+                  <lg>
+                     <head>12.</head>
+                     <l>Of his long wiſh'd retur<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, while we</l>
+                     <l>Long for the ſame, and ſo may <hi>He,</hi>
+                     </l>
+                     <l>by viſiting once more</l>
+                     <l>This loving Clime, and tender Nurſe,</l>
+                     <l>His preſence hath remov'd the curſe</l>
+                     <l>entail'd on SCOTLAND <hi>poor.</hi>
+                     </l>
+                     <l>The very thought doth ſweetly ſmell,</l>
+                     <l>Our <hi>Love</hi> return Glad-news; to dwell?</l>
+                     <l>
+                        <hi>He</hi>'s on the rode, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>y do I add? <hi>FAREWELL.</hi>
+                     </l>
+                  </lg>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:32927:9"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
